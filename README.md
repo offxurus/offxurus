@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Breno Bastos!
 
-- 🔭 Hoje eu trabalho com low-code e SQL
 - 🌱 Estudando Java e AWS
 <picture>
   <source
